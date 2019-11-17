@@ -13,8 +13,8 @@
   "author": "Christina Hastenrath",
   "license": "ISC",
   "bin": {
-	"github-label": "./cli.js"
-  }
+    "github-label": "./cli.js"
+  },
   "bugs": {
     "url": "https://github.com/ch264/command_line-Github-API/issues"
   },
